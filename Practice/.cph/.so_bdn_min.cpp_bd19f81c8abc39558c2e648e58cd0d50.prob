@@ -1,0 +1,1 @@
+{"name":"Local: so_bdn_min","url":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Practise\\so_bdn_min.cpp","tests":[{"id":1712048551372,"input":"3\n2\n12\n17","output":"10\n11100\n11101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Practise\\so_bdn_min.cpp","group":"local","local":true}

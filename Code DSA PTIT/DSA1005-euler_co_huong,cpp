@@ -1,0 +1,39 @@
+#include<bits/stdc++.h>
+using namespace std;
+using ll = long long;
+vector<vector<int>> adj;
+bool vst[1005];bool check[1005][1005];
+bool checkEuler(int n){
+    for(int i=1;i<=n;i++){
+        int x=0,y=0;
+        for(int j=1;j<=n;j++){
+            if(check[i][j]) x++;
+            if(check[j][i]) y++;
+        }
+        if(x!=y) return 0;
+    }
+    return 1;
+}
+void testCase(){
+    adj.clear();adj.resize(1005);
+    memset(vst,0,sizeof(vst));
+    memset(check,0,sizeof(check));
+    int n,m;cin>>n>>m;
+    for(int i=0;i<m;i++){
+        int x,y;cin>>x>>y;
+        adj[x].push_back(y);
+        check[x][y]=1;
+    }
+    cout << checkEuler(n);
+}
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    int t;cin>>t;
+    while(t--){
+        testCase();
+        cout << endl;
+    }
+    return 0;
+}

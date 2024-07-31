@@ -1,0 +1,1 @@
+{"name":"Local: hau_to_trung_to","url":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Stack\\hau_to_trung_to.cpp","tests":[{"id":1711097859714,"input":"2\nABC++\nAB*C+","output":"(A+(B+C))\n((A*B)+C)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Stack\\hau_to_trung_to.cpp","group":"local","local":true}

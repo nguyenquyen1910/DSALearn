@@ -1,0 +1,1 @@
+{"name":"Local: twosum_smallthan_k","url":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Lower,Upper\\twosum_smallthan_k.cpp","tests":[{"id":1705656336464,"input":"4 5\n2 2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Lower,Upper\\twosum_smallthan_k.cpp","group":"local","local":true}

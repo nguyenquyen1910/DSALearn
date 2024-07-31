@@ -1,0 +1,1 @@
+{"name":"Local: tplt_union_find","url":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Graph\\tplt_union_find.cpp","tests":[{"id":1712656243685,"input":"1\n5 6 \n1 2 1 3 2 3 3 4 3 5 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PC\\OneDrive\\Workspace\\CODE\\DSA\\Graph\\tplt_union_find.cpp","group":"local","local":true}

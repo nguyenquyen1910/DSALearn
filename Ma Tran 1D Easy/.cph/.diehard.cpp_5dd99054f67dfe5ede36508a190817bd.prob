@@ -1,0 +1,1 @@
+{"name":"Local: diehard","url":"c:\\Users\\PC\\OneDrive\\Workspace\\DSA\\Ma Tran 1D\\diehard.cpp","tests":[{"id":1704648783851,"input":"5\n100 25 25 50 50","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\PC\\OneDrive\\Workspace\\DSA\\Ma Tran 1D\\diehard.cpp","group":"local","local":true}
